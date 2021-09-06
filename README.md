@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @amilz
 - 👀 I’m interested in ...solana
-- 🌱 I’m currently learning ...javascript and solana blockchain
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ...JS, TS, and solana blockchain
+- 💞️ I’m looking to collaborate on ...solana projects!
+- 📫 How to reach me ...@a_milz
 
 <!---
 amilz/amilz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
