@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amilz
 - 👀 I’m interested in ...solana
-- 🌱 I’m currently learning ...JS, TS, and solana blockchain
+- 🌱 I’m currently working in ...JS, TS, React, and solana blockchain
 - 💞️ I’m looking to collaborate on ...solana projects!
 - 📫 How to reach me ...@a_milz
 
