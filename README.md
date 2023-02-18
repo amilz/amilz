@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @amilz
-- 👀 I’m interested in ...solana
-- 🌱 I’m currently working in ...JS, TS, React, and solana blockchain
-- 💞️ I’m looking to collaborate on ...solana projects!
-- 📫 How to reach me ...@a_milz
+Building on Solana - TS, Anchor, NextJS
+- 🏆[2023 Sandstorm Hackathon Winner](https://github.com/amilz/proof-of-x)
+- 🔥[BurnSPL Leaderboard](http://burnspl.com/)
+
+Let's collab:
+- [@a_milz](https://twitter.com/a_milz)
+- <amilz1@protonmail.com>
 
 <!---
 amilz/amilz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
