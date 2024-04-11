@@ -1,7 +1,4 @@
 Building on Solana - TS, Anchor, NextJS
-- 📲 Building [**tap**](http://tapcash.app/)  | 🥇 1st Place Mobile App, [Solana Grizzlython 2023](https://solana.com/news/solana-grizzlython-winners)
-- 🏆 [2023 Sandstorm Hackathon Winner](https://github.com/amilz/proof-of-x)
-- 🔥 [BurnSPL Leaderboard](http://burnspl.com/)
 
 Let's collab:
 - [@a_milz](https://twitter.com/a_milz)
